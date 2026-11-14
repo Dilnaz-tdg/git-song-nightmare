@@ -1,2 +1,4 @@
-st3
-str4
+st
+str
+stin
+string
